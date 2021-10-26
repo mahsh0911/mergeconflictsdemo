@@ -3,6 +3,4 @@
 This is my code for the git project.
 
 # FeatureBranch
-Added to master again
-Made changes for git pull demo
-Made more changes.
+Added to master again and made more changes.
